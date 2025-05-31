@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=576F85&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+a+Python+Developer+%F0%9F%90%8D;Also+a+Lua+(FiveM)+Script+Wizard+%F0%9F%AA%84;Always+Hacking+on+Fun+Projects+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=576F85&center=true&vCenter=true&width=435&lines=python/lua+developer;FiveM+Script+Wizard+🪄;Always+Hacking+on+Fun+Projects+💻" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![FiveM](https://img.shields.io/badge/-FiveM-F36F21?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
